@@ -44,3 +44,12 @@ the changes would be saved.
 
 
 8. git push -u origin main
+This is the litteral PUSH/LAUNCH button 
+
+
+
+To save changes for the same file,
+just need to follow 3,5 and 8
+
+
+### ALWAYS REMEMBER TO SAVE LOCALLY, BEFORE TRYING TO SAVE ON GITHUB
