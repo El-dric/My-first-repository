@@ -49,7 +49,6 @@ git remote -v
 use this to check the current location
 
 
-
 8. git push -u origin main
 This is the litteral PUSH/LAUNCH button 
 
