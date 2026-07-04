@@ -1,0 +1,16 @@
+1. echo "# My-first-repository" >> README.md
+Do not nedded right now
+
+2. git init
+To connect with the actual github repository
+have to do this once, everytime I create a new project folder
+
+3. git add README.md
+I will be using "git add ."
+. = all changes of all of the files in this folder
+name.type = all changes of the specific name.type file
+
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/El-dric/My-first-repository.git
+7. git push -u origin main
