@@ -7,7 +7,7 @@ To connect with the actual github repository
 have to do this once, everytime I create a new project folder
 
 
-3. git add README.md
+3. git add 
 I will be using "git add ."
 . = all changes of all of the files in this folder
 name.type = all changes of the specific name.type file
@@ -41,10 +41,21 @@ but this will change or stuff, gotta wait and see.
 7. git remote add origin https://github.com/El-dric/My-first-repository.git
 this one sets the actual online github repository location, where the file will go and 
 the changes would be saved.
+When done first time in your PC, it's also a verification initializer. You will see.
+if you try to do this twice in a same folder, this will show you ERROR and tell you,
+the location already exists.
+
+git remote -v
+use this to check the current location
+
 
 
 8. git push -u origin main
 This is the litteral PUSH/LAUNCH button 
+
+just
+git push
+will do fine after initial command
 
 
 
