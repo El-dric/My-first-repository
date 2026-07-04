@@ -114,13 +114,12 @@ if you want to save anything on this branch, you first have to connect to the ma
 
 git push -set-upstream origin (name)
 
+git push
+
+
+will do just fine after the first push
+
 
 6. git pull 
 
-to get the newest version of the git repository you copied or forkked
-
-
-
-
-
-
+to get the newest version of the git repository you copied or forkked.
