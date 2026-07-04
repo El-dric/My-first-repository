@@ -67,3 +67,60 @@ just need to follow 3,5 and 8
 
 
 ### ALWAYS REMEMBER TO SAVE LOCALLY, BEFORE TRYING TO SAVE ON GITHUB
+
+
+
+***SOME MORE COMMANDS FOR SHARED PROJECTS***
+
+
+
+1. If the folder is in the C drive, (really recommanded)
+then to do all of this and previous stuff on Windows COMMANDS,
+
+
+cd\ projects(main location folder name)\ the actual project folder name
+
+then,
+
+
+code .
+
+to open the folder on VS code
+
+
+2. if you want to copy someone's code legally... i think...
+
+
+git clone (link of the repository, not in first bracats)
+
+
+3. git branch
+
+to check which branch you are on
+
+
+4. git checkout main
+
+to swap to the main branch
+
+
+5. git checkout -b (name)
+
+to create a named branch and swap to it
+
+
+if you want to save anything on this branch, you first have to connect to the main branch
+
+
+git push -set-upstream origin (name)
+
+
+6. git pull 
+
+to get the newest version of the git repository you copied or forkked
+
+
+
+
+
+
