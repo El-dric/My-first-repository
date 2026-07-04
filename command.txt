@@ -1,3 +1,7 @@
+***GITHUB REPOSITORY CONNECTION AND VERSION UPDATE COMMANDS AND THEIR USE (that I reqire, right now)
+
+
+
 1. echo "# My-first-repository" >> README.md
 Do not nedded right now
 
