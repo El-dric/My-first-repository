@@ -1,16 +1,46 @@
 1. echo "# My-first-repository" >> README.md
 Do not nedded right now
 
+
 2. git init
 To connect with the actual github repository
 have to do this once, everytime I create a new project folder
+
 
 3. git add README.md
 I will be using "git add ."
 . = all changes of all of the files in this folder
 name.type = all changes of the specific name.type file
 
-4. git commit -m "first commit"
-5. git branch -M main
-6. git remote add origin https://github.com/El-dric/My-first-repository.git
-7. git push -u origin main
+
+4. Git config
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+will need to do them at least once in laptop,
+to add myself as the author/user,
+or if I want to change aurhor/user.
+without this I cannot save or commit
+
+git config --global --list
+
+this to check the current author/user
+
+
+5. git commit -m "first commit"
+this is a comment section, here we say what changes we made on this version update
+kinda like update log.
+
+
+6. git branch -M main
+this is like adding or updating folder location? It's not clear yet.
+but this will change or stuff, gotta wait and see.
+
+
+7. git remote add origin https://github.com/El-dric/My-first-repository.git
+this one sets the actual online github repository location, where the file will go and 
+the changes would be saved.
+
+
+8. git push -u origin main
